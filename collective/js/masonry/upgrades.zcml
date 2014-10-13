@@ -11,4 +11,13 @@
         handler=".upgrades.common"
         />
 
+    <upgradeStep
+        source="1001"
+        destination="1002"
+        title="Common Upgrade"
+        description=""
+        profile="collective.js.masonry:default"
+        handler=".upgrades.recook"
+        />
+
 </configure>

@@ -3,7 +3,7 @@ Introduction
 
 This addon register masonry_ to Plone resource registry.
 
-version: 2.1.05
+version: 3.1.5
 
 About Masonry
 =============
